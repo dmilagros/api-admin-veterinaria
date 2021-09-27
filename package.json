@@ -1,0 +1,18 @@
+{
+  "name": "api-admin-pacientes",
+  "version": "1.0.0",
+  "description": "backend en mongo y express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Milagros Velasquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
